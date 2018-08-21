@@ -10,5 +10,9 @@ This repo is for the [Databases Arcade Problems](https://app.codesignal.com/arca
     3. [monthlyScholarships](3.%20monthlyScholarships.md)
     4. [projectsTeam](4.%20projectsTeam.md)
     5. [automaticNotifications](5.%20automaticNotifications.md)
-+ Always Leave Table in ORDER
-    6. [volleyballResults](5.%20volleyballResults.md)
+
++ Always Leave Table in ORDER 
+	6. [volleyballResults](6.%20volleyballResults.md)
+	7. [mostExpensive](7.%20mostExpensive.md)
+	8. [contestLeaderboard](8.%20contestLeaderboard.md)
+	9. [gradeDistribution](9.%20gradeDistribution.md)
