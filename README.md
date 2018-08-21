@@ -5,5 +5,8 @@
 This repo is for the [Databases Arcade Problems](https://app.codesignal.com/arcade/db). Become my friend on CodeSignal  [Click](https://app.codesignal.com/signup/w56JNdBBYMcoBfERb/main)
 
 + Welcome to the Table
-	+ [1. projectList](1.%20projectList.md)
-    + [2. countriesSelection](2.%20countriesSelection.md)
+	1. [projectList](1.%20projectList.md)
+    2. [countriesSelection](2.%20countriesSelection.md)
+    3. [monthlyScholarships](3.%20monthlyScholarships.md)
+    4. [projectsTeam](4.%20projectsTeam.md)
+    5. [automaticNotifications](5.%20automaticNotifications.md)
