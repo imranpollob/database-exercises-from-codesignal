@@ -17,3 +17,7 @@ This repo is for the [Databases Arcade Problems](https://app.codesignal.com/arca
 8. [contestLeaderboard](8.%20contestLeaderboard.md)
 9. [gradeDistribution](9.%20gradeDistribution.md)
 10. [mischievousNephews](10.%20mischievousNephews.md)
+
+#### Would you LIKE the Second Meal?
+11. [suspectInvestigation](11.%20suspectInvestigation.md)
+12. [suspectInvestigation2](12.%20suspectInvestigation2.md)
