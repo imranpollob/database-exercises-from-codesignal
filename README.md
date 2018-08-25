@@ -24,3 +24,4 @@ This repo is for the [Databases Arcade Problems](https://app.codesignal.com/arca
 13. [securityBreach](13.%20securityBreach.md)
 14. [testCheck](14.%20testCheck.md)
 15. [expressionsVerification](15.%20expressionsVerification.md)
+16. [newsSubscribers](16.%20newsSubscribers.md)
