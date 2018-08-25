@@ -22,3 +22,5 @@ This repo is for the [Databases Arcade Problems](https://app.codesignal.com/arca
 11. [suspectInvestigation](11.%20suspectInvestigation.md)
 12. [suspectInvestigation2](12.%20suspectInvestigation2.md)
 13. [securityBreach](13.%20securityBreach.md)
+14. [testCheck](14.%20testCheck.md)
+15. [expressionsVerification](15.%20expressionsVerification.md)
